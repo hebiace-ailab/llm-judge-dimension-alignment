@@ -5,7 +5,7 @@ Code, experiment outputs, and analysis for the paper:
 > Yunan Zhang, Jingjing Fan, and Yanxiao Liu.
 > **What Do LLM Judges Evaluate in Recommendation Assessment? Disentangling Relevance, Local Diversity, and System-Level Diversity.**
 > Accepted for publication in *IEEE Transactions on Knowledge and Data Engineering*, 2026.
-> DOI: [10.1109/TKDE.2026.3736381](https://doi.org/10.1109/TKDE.2026.3736381) (link becomes active once the Early Access version is posted on IEEE Xplore).
+> DOI: [10.1109/TKDE.2026.3736381](https://doi.org/10.1109/TKDE.2026.3736381) (Early Access on IEEE Xplore).
 
 When an LLM judge declares one recommendation list "better" than another, which quality
 dimension drives that verdict? This repository contains everything needed to reproduce the
@@ -132,7 +132,7 @@ task displayed only anonymized recommendation lists.
   journal = {IEEE Transactions on Knowledge and Data Engineering},
   year    = {2026},
   doi     = {10.1109/TKDE.2026.3736381},
-  note    = {Accepted; volume and issue to follow}
+  note    = {Early Access}
 }
 ```
 
