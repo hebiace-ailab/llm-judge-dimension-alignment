@@ -96,7 +96,7 @@ The judges compared top-10 lists from six recommenders per dataset: GBAF, Fixed,
 GradNorm, PCGrad, and LightGCN. Their training and evaluation code is in
 [`recsys/`](recsys/), and the 22 seed-42 checkpoints that produced every list in
 `data/topk_results/` are attached to the
-[GitHub release](https://github.com/niyaobuyaochibl/llm-judge-dimension-alignment/releases)
+[GitHub release](https://github.com/hebiace-ailab/llm-judge-dimension-alignment/releases)
 as four per-dataset archives (418 MB in total), with SHA-256
 checksums in `recsys/CHECKPOINT_SHA256SUMS.txt`. `recsys/README.md` maps each checkpoint to
 its config and shows how to regenerate the lists from a checkpoint or retrain from scratch.
